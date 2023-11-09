@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.47 18.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Isolation_Mode" data-name="Isolation Mode">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g id="yellow_icons" data-name="yellow icons">
+        <polygon class="cls-2" points="6.1 8.1 6.1 13.83 14.73 17.61 23.37 13.83 23.37 8.1 6.1 8.1"/>
+        <polygon class="cls-1" points="14.73 .55 1.25 6.46 14.73 12.37 28.22 6.46 14.73 .55"/>
+        <polyline class="cls-2" points="1.25 6.46 14.73 12.37 28.22 6.46"/>
+      </g>
+    </g>
+  </g>
+</svg>
