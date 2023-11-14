@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Section 1: End-to-End Development",
+    "content": [
+      {
+        "heading": "Learning Design",
+        "question": "Do you have a team member who can capture the vision and content in a learning plan that is based on online pedagogy and best practices (e.g. an instructional designer)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member with instructional design knowledge. This team member will work closely with all other team members working on your degree and connect everyone to the overarching vision and approach. They also know how to apply effective online pedagogy principles to the design and content.",
+        "NoResult": "Your project may benefit from the addition of an instructional designer. This team member will work closely with all other team members working on your degree and connect everyone to the overarching vision and approach. They also understand how to apply effective online pedagogy principles to the design and content."
+      },
+      {
+        "heading": "Learning Design",
+        "question": "Do you have a team member who can produce briefing documents that will guide those responsible for executing content development (e.g. graphics, animations, or video scripts) and technology-related tasks (e.g. an instructional designer, art director, or visual designer)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member capable of producing briefing documents to guide various content development tasks. They can create module outlines, graphics briefs, and video scripts to direct the development of text-, graphics-, and video-based components, respectively.",
+        "NoResult": "Your project could benefit from having a team member who produces briefing documents to guide various content development tasks. They can create module outlines, graphics briefs, and video scripts to direct the development of text-, graphics-, and video-based components, respectively."
+      },
+      {
+        "heading": "Faculty or Subject Matter Expert",
+        "question": "Do you have a team member who can check the accuracy of content and validate references to ensure that claims and statements are substantiated by credible sources (e.g. the faculty member or a subject matter expert assisting them)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member with specialized knowledge who can ensure the accuracy and credibility of the program's content. They can also provide support to team members who may not be subject matter experts by explaining concepts, sharing relevant resources, and providing feedback on the content they create.",
+        "NoResult": "Your project could benefit from having a team member with specialized knowledge who can ensure the accuracy and credibility of the program's content. They can also provide support to team members who may not be subject matter experts by explaining concepts, sharing relevant resources, and providing feedback on the content they create."
+      },
+      {
+        "heading": "Project Management",
+        "question": "Do you have a team member who can manage the project timelines, budget, and scope (e.g. a project manager)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member who manages the entire process of creating a learning experience. They serve as the central point of contact, keeping all relevant stakeholders informed of the project’s progress and ensuring that it is completed within the established timeline.",
+        "NoResult": "Your project could benefit from having a team member that manages the entire process of creating a learning experience. They serve as the central point of contact, keeping all relevant stakeholders informed of the project’s progress and ensuring that it is completed within the established timeline."
+      }
+    ]
+  },
+  {
+    "name": "Section 2: Content Creation",
+    "content": [
+      {
+        "heading": "Course Writing",
+        "question": "Do you have a team member who can create text-based educational content and the related accessibility additions, like alt text (e.g. an instructional designer, a content writer, or a subject matter expert who collaborates closely with the faculty member)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member who can develop diverse text-based content, such as casebooks, lessons, assignments, and quizzes, and make them accessible. They leverage their writing skills to communicate information to students, guide them through the learning journey, and establish connections between different learning assets to create a cohesive learning experience.",
+        "NoResult": "Your project could benefit from having a team member who can develop diverse text-based content, such as casebooks, lessons, assignments, and quizzes, and make them accessible. They leverage their writing skills to communicate information to students, guide them through the learning journey, and establish connections between different learning assets to create a cohesive learning experience."
+      },
+      {
+        "heading": "Editing",
+        "question": "Do you have a team member who can proofread and edit the text-based content (e.g. a copy editor)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member with expertise in proofreading and editing text-based content. Their role involves improving the clarity and readability of text, while also ensuring language and content consistency.",
+        "NoResult": "Your project could benefit from having a team member with expertise in proofreading and editing text-based content. Their role involves improving the clarity and readability of text, while also ensuring language and content consistency."
+      },
+      {
+        "heading": "Video Production",
+        "question": "Do you have a team member who can film educational videos and podcasts (e.g. a video producer or film crew)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member that manages various aspects of video production, from conception to completion. They collaborate with faculty members to create educational videos that complement the written program content.",
+        "NoResult": "Your project could benefit from having a team member that manages various aspects of video production, from conception to completion. They collaborate with faculty members to create educational videos that complement the written program content."
+      },
+      {
+        "heading": "Video Editing",
+        "question": "Do you have a team member who can edit educational videos and podcasts (e.g. a video editor)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member that assembles, shapes, and enhances raw video footage to produce completed educational videos. Their primary role is to ensure that the video content is visually engaging and coherent, aligns with the learning outcomes, and successfully conveys the intended message.",
+        "NoResult": "Your project could benefit from having a team member that assembles, shapes, and enhances raw video footage to produce completed educational videos. Their primary role is to ensure that the video content is visually engaging and coherent, aligns with the learning outcomes, and successfully conveys the intended message."
+      },
+      {
+        "heading": "Graphic and Motion Design",
+        "question": "Do you have a team member who can create visual learning components, like graphics and animations (e.g. a graphic designer or motion designer)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member that uses their design expertise, software tools, and creativity to create compelling visual content (including graphics, animations, and interactive elements) that supports text-based content and effectively conveys educational concepts.",
+        "NoResult": "Your project could benefit from having a team member that uses their design expertise, software tools, and creativity to create compelling visual content (including graphics, animations, and interactive elements) that supports text-based content and effectively conveys educational concepts."
+      }
+    ]
+  },
+  {
+    "name": "Section 3: System Development",
+    "content": [
+      {
+        "heading": "Implementation",
+        "question": "Do you have a team member who can prepare, upload, and maintain content on a learning management system (LMS), effectively crafting a unique online learning experience for students (e.g. an LMS administrator, content manager, or technical support team)?",
+        "Yes": "",
+        "No": "",
+        "YesResult": "You already have a team member responsible for setting up, managing, and maintaining an LMS. They play a critical role in providing an engaging and user-friendly digital learning experience for both students and instructors.",
+        "NoResult": "Your project could benefit from having a team member that can set up, manage, and maintain an LMS. They play a critical role in providing an engaging and user-friendly digital learning experience for both students and instructors."
+      }
+    ]
+  }
+]
